@@ -1,0 +1,11 @@
+C:\2025\Rust\rust-learning-journey\book-exercises\2. Programming a Guessing Game\guessing_game\target\debug\deps\libquote-fdafe8b5e2a760de.rmeta: C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src/lib.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs
+
+C:\2025\Rust\rust-learning-journey\book-exercises\2. Programming a Guessing Game\guessing_game\target\debug\deps\quote-fdafe8b5e2a760de.d: C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src/lib.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs
+
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src/lib.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ext.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\format.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\ident_fragment.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\to_tokens.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\runtime.rs:
+C:\Users\Menna\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.38\src\spanned.rs:
