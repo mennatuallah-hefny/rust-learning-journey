@@ -1,1 +1,0 @@
-C:\2025\Rust\rust-learning-journey\book-exercises\1.Getting_Started\1.3_Hello_Cargo!\hello_cargo\target\debug\hello_cargo.exe: C:\2025\Rust\rust-learning-journey\book-exercises\1.Getting_Started\1.3_Hello_Cargo!\hello_cargo\src\main.rs

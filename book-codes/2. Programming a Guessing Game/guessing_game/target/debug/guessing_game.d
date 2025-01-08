@@ -1,1 +1,0 @@
-C:\2025\Rust\rust-learning-journey\book-exercises\2.\ Programming\ a\ Guessing\ Game\guessing_game\target\debug\guessing_game.exe: C:\2025\Rust\rust-learning-journey\book-exercises\2.\ Programming\ a\ Guessing\ Game\guessing_game\src\main.rs
