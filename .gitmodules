@@ -1,0 +1,3 @@
+[submodule "projects/Time-Tracker"]
+	path = projects/Time-Tracker
+	url = https://github.com/mennatuallah-hefny/Time-Tracker.git
